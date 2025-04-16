@@ -1,7 +1,7 @@
 ### 📁 Final File Structure
 
 ```
-iris_classifier_app/
+Iris_Species_Classifier/
 │
 ├── Species.py
 ├── requirements.txt
@@ -73,8 +73,8 @@ This is a Streamlit app that predicts the species of an Iris flower using a Rand
 Clone the repo and run the app in one command:
 
 ```bash
-git clone https://github.com/atul2501/iris_classifier_app.git
-cd iris_classifier_app
+git clone https://github.com/atul2501/Iris_Species_Classifier.git
+cd Iris_Species_Classifier)
 pip install -r requirements.txt
 streamlit run Species.py
 ```
@@ -92,5 +92,5 @@ Enjoy predicting flowers with ease! 🌼
 ### ✅ Copy-Paste One-Liner for Terminal
 
 ```bash
-git clone https://github.com/atul2501/iris_classifier_app.git && cd iris_classifier_app && pip install -r requirements.txt && streamlit run Species.py
+git clone https://github.com/atul2501/Iris_Species_Classifier.git && cd Iris_Species_Classifier && pip install -r requirements.txt && streamlit run Species.py
 ```
