@@ -3,7 +3,7 @@
 ```
 iris_classifier_app/
 │
-├── app.py
+├── Species.py
 ├── requirements.txt
 └── README.md
 ```
@@ -76,7 +76,7 @@ Clone the repo and run the app in one command:
 git clone https://github.com/atul2501/iris_classifier_app.git
 cd iris_classifier_app
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run Species.py
 ```
 
 ## 🎯 Features
@@ -92,5 +92,5 @@ Enjoy predicting flowers with ease! 🌼
 ### ✅ Copy-Paste One-Liner for Terminal
 
 ```bash
-git clone https://github.com/atul2501/iris_classifier_app.git && cd iris_classifier_app && pip install -r requirements.txt && streamlit run app.py
+git clone https://github.com/atul2501/iris_classifier_app.git && cd iris_classifier_app && pip install -r requirements.txt && streamlit run Species.py
 ```
